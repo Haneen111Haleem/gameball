@@ -1,0 +1,320 @@
+/*small nav up*/
+#alo{
+    border-bottom: 4px solid black;
+     padding: -50px ;
+}
+#alo:hover{
+border-bottom:rgb(255,207,72) ;
+}
+/*navbar*/
+nav ul{
+    display: inline;
+    position: relative;
+    padding-inline: 10px;
+    margin: 60px;
+    color: black;
+    text-decoration: none;
+}
+nav li{
+    display: inline;
+    word-spacing: 15px;
+}
+nav ul li{
+    text-decoration: none;
+    font-family: Outfit, sans-serif;
+    text-decoration-color: black;
+    color: black;
+    word-spacing: 25px;   
+}
+nav{
+    width: 100%;
+}
+div{
+    display: inline;
+    padding-left: 15px;
+    align-items: center;
+    font-family: Outfit, sans-serif;
+    color: black;
+    text-decoration-color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#login{
+    text-decoration: none;
+    background-color: white;
+    border: 0px;
+    margin: auto;
+    font-family: Outfit, sans-serif;
+    font-size: larger;
+    text-decoration-color: black;
+}
+#install{
+height: 60px;
+width: 150px;
+text-decoration: none;
+background-color:black;
+margin: auto;
+font-family: Outfit, sans-serif;
+color: white;
+border-radius: 10px;
+font-size: large;
+font-weight: bold;
+}
+#install:hover{
+    background-color:rgb(255,207,72);
+    border: 3px black solid;
+    color: black;
+   
+}
+
+/*header*/
+#Sales{
+    border-bottom: 4px solid #9fa4ad;
+}
+
+#Sales:hover{
+    border-bottom: none;
+}
+
+#bord{
+    font-family: Recoleta, Georgia, sans-serif; 
+    font-size: 60px;
+    font-weight: bolder;
+     letter-spacing: -6px; 
+     text-align: center; 
+     padding: 1px 5px -6px 3px;
+}
+.bigdiv{
+    box-sizing: border-box;
+    height: 350px;
+    width: 1500px;
+    border: 3px black solid;
+    border-radius: 45px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+/*section 2 */
+
+.section-two{
+
+    margin-top:  100px;  
+    text-align: center;
+
+}
+.columns{
+    text-align: center;
+}
+#oness{
+    font-family: Recoleta, Georgia, sans-serif;
+     font-weight: bolder;
+     font-size: 60px;
+     letter-spacing: -4px;
+     text-align: center;
+}
+#twos{
+    margin-top:-30px; 
+    height: 70px;
+    width: 800px;
+    margin-left: 350px;
+    font-family: Outfit, sans-serif;
+    color: #40454f;
+    font-size: 23px;
+    font-weight: 300px;
+    text-align: center;
+}
+.grid-container{
+   display: inline-flex;
+   align-items: flex-start;
+   justify-content: center;
+   width: 750px;
+   border-top: 1px #d6dae2 solid;  
+}
+h2{
+    font-family: Recoleta, Georgia, sans-serif;
+    color: #0d0e10;
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+.loon{
+    color: #727782;
+    
+}
+/*sec3*/
+.section-three{
+    margin-top:  100px;
+    background-color:rgb(255,207,72) ;
+    height: 1000px;
+}
+.roles{
+    margin-top: 500px;
+  
+   
+}
+#title{
+    padding-top: 1150px;
+    text-align: center;
+
+}
+#contain{
+    position:absolute;
+
+}
+#one{
+    display: block;
+    padding: 2px 0px 50px 400px;
+    margin: 50px 20px 20px 5px;
+    width: 290px;
+    height: 90px;
+   
+}
+#one:hover{
+    border: 2px solid rgb(219, 198, 133);
+    border-radius: 5px; 
+    background-color:rgb(219, 198, 133) ;
+    vertical-align: middle;
+
+}
+#two{
+    display: block;
+    padding: 2px 0px 50px 400px;
+    margin: 50px 20px 20px 5px;
+    width: 290px;
+}
+#three{
+    display: block;
+    padding: 2px 0px 50px 400px;
+    margin: 50px 20px 20px 5px;
+    width: 290px;
+}
+/*the yellow part*/
+.section-f{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   
+}
+.last{
+    margin-top: 90px;
+    padding-top: 25px;
+    box-sizing: border-box;
+    height: 300px;
+    width: 70%;
+    border: 3px rgb(255,207,72) solid;
+    background-color: rgb(255,207,72) ;
+    border-radius: 45px;
+    text-align: center;
+    
+}
+.last p{
+    font-family: Recoleta, Georgia, sans-serif; 
+    font-size: 40px; 
+     font-weight:bolder;
+     letter-spacing: -2px;
+}
+.buttonss{
+    padding-top: 10px;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+}
+#SignUp{
+   
+    width: 100px;
+    block-size: auto;
+    height: 45px;
+    background-color: white;
+    font-family: Outfit, sans-serif;
+    font-size: 10px;
+    border: 2px solid #000;
+    border-radius: 12px;
+}
+#SignUp:hover{
+    background-color: black;
+    color: white;
+}
+
+#BookaDemo{
+    margin-left: 10px;
+    width: 100px;
+    block-size: auto;
+    height: 45px;
+    background-color:black;
+    color: white;
+    font-family: Outfit, sans-serif;
+    font-size: 10px;
+    font-weight: 400px;
+    border: 2px solid #000;
+    border-radius: 12px;
+}
+#BookaDemo:hover{
+    background-color: rgb(255,207,72) ;
+    color: black;
+    font-weight: 100px;
+}
+/*footer*/
+ 
+footer{
+    color: white;
+    overflow: hidden;   /*this line solved the extra white space after the footer*/
+    background-color: black;
+    direction: ltr;
+    padding: 100px 0px 2px 200px;
+    display: flex;
+} 
+.div-1{
+    color: white;
+   position: relative;
+   padding-right: 90px;
+   
+}
+.leftt{
+    color: white;
+    position: absolute;
+    top: 240px;
+    left: 3px;
+}
+#email{
+    text-align: center;
+    background-color: hsla(0, 0%, 100%, 0.2);
+    color: white;
+    border:none;
+    font-weight: 200px;
+    border-radius: 12px;
+    height: 45px;
+    width: 170px;
+}
+#sub{
+    padding-left: 10px;
+    height: 48px;
+    width: 100px;
+    border-radius: 12px;
+    text-align: center;
+    background-color:rgb(255,207,72) ;
+}
+.pic{
+    padding-left: 10px;
+}
+.a5er{
+    position: relative;
+}
+footer li a{ 
+    color: white;
+    font-family: Outfit, sans-serif;
+    font-size: medium;
+   
+}
+footer h4{
+    color: white;
+    font-family: Outfit, sans-serif;
+    font-size: large;
+    padding-left: 60px;
+}
+footer li{
+    padding-bottom: 20px;
+    padding-left: 60px;
+}
+
